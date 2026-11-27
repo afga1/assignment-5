@@ -1,0 +1,16 @@
+---
+title: "Test For GitHub Push"
+author: "Aaron O'Flaherty"
+format: pdf
+editor: visual
+---
+
+## Test for Github Push
+
+```{r}
+library(readr)
+
+dig.df <- read.csv("DIG.csv")
+head(dig.df)
+#Now this is a test
+```
